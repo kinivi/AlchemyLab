@@ -1,2 +1,2 @@
 # AlchemyLab
-A place where the magic of AI is experimented with and transformed.
+A place where I experiment with AI and share with a world. The repo contain codes, data and visualisation for my articles about AI. 
