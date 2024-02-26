@@ -44,7 +44,7 @@ einops==0.6.1
 entrypoints==0.4
 exceptiongroup==1.2.0
 executing==2.0.1
-faiss==1.7.4
+faiss-cpu==1.7.4
 Faker==22.0.0
 fastavro==1.9.2
 fastjsonschema==2.19.1
